@@ -1,6 +1,7 @@
 import numpy.random as rand
 rand.seed(int((69 + 15 + 7)/3))
 
+
 def print_list(a):
     for item, i in zip(a, range(1, len(a) + 1)):
         print(i, '\t'*2, item)
@@ -11,6 +12,7 @@ def perform(people, stuff):
         lucky_one = rand.randint(0, len(people))
         print(thing, '\t'*2 ,'-'*10 + '>', people[lucky_one])
         del people[lucky_one]
+
 
 def main():
     lucky_people = ["Білоус Анастасія Сергіївна",
