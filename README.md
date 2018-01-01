@@ -2,7 +2,6 @@
 
 <div class="attempt-left">
   <figure>
-    <img src="https://placehold.it/350x150" alt="Alert dialog">
     <figcaption class="warning">
       <b>DON'T</b>: Убедись в наличии Python 3.* и NumPy!
      </figcaption>
