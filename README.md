@@ -1,10 +1,6 @@
 ### Код лотореи "шар" осеннего семестра 2017
 
-> This is a warning. It spans
-
-<div class="alert alert-success">
-Blah blah blah
-</div>
+> Для запуска требуется установленый Python 3.* и NumPy
 
 ---------
 Для установки NumPy:
