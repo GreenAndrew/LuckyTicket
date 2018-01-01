@@ -1,6 +1,6 @@
 ### Код лотореи "шар" осеннего семестра 2017
 
-!warning> This is a warning. It spans
+> This is a warning. It spans
 
 <div class="alert alert-success">
 Blah blah blah
