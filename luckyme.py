@@ -10,7 +10,7 @@ def print_list(a):
 def perform(people, stuff):
     for thing in stuff:
         lucky_one = rand.randint(0, len(people))
-        print(thing, '\t'*2 ,'-'*10 + '>', people[lucky_one])
+        print(thing, '\t'*2, '-'*10, '>', people[lucky_one])
         del people[lucky_one]
 
 
@@ -57,5 +57,5 @@ def main():
     print('-'*10)
     perform(lucky_people, goods)
 
-if __name__=='__main__':
+if __name__ == '__main__':
     main()
