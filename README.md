@@ -1,12 +1,6 @@
 ### Код лотореи "шар" осеннего семестра 2017
 
-<div class="attempt-left">
-  <figure>
-    <figcaption class="warning">
-      <b>DON'T</b>: Убедись в наличии Python 3.* и NumPy!
-     </figcaption>
-  </figure>
-</div>
+!warning> This is a warning. It spans
 
 ---------
 Для установки NumPy:
