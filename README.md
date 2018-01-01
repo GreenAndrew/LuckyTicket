@@ -1,7 +1,14 @@
 ### Код лотореи "шар" осеннего семестра 2017
-{warning:title:Внимание!|icon=False}
-Убедись в наличии Python 3.* и NumPy
-{warning}
+
+<div class="attempt-left">
+  <figure>
+    <img src="https://placehold.it/350x150" alt="Alert dialog">
+    <figcaption class="warning">
+      <b>DON'T</b>: Убедись в наличии Python 3.* и NumPy!
+     </figcaption>
+  </figure>
+</div>
+
 ---------
 Для установки NumPy:
 ```
